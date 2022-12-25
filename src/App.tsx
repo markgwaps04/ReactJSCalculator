@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useCallback, useEffect, useState } from 'react';
 import { CalculatorDisplay } from './components/CalculatorDisplay'; 
